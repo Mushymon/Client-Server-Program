@@ -1,0 +1,11 @@
+*.sln
+*.vcx*
+*.tlog
+*.lastbuildstate
+*.recipe
+*.obj
+*.log
+*.idb
+*.pdb
+*.ilk
+*.vs
